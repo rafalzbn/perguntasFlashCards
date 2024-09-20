@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Curitiba- NOME',
+    'O que significa CURITIBA?',
+    'Curitiba significa " aqui muito pinhão".'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Curitiba- APELIDO',
+    'Qual o apelido de Curitiba?',
+    'Cidade-sorriso.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Curitiba- PRODUÇÂO',
+    'O que Curitiba produz?',
+    'Curitiba concentra uma cidade industrial que atua na indústria automobilística, metalmecânica, cimento, cerâmica, montagem de máquinas, tecidos, frigoríficos, além das agroindústrias que transformam produtos primários, como soja, milho, carne suína e madeira.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Curitiba- IDADE',
+    'Quantos anos Curitiba tem?',
+    'No dia 29 de março, Curitiba, conhecida carinhosamente como Cidade Sorriso, comemora 331 anos de uma rica trajetória.'
 )
