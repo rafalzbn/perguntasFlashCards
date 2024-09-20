@@ -99,7 +99,7 @@ footer p {
 @media (max-width: 560px) {
     
     body {
-        background: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.archdaily.com%2F779823%2Fthese-colorful-illustrations-bring-curitibas-landmarks-to-life&psig=AOvVaw1Okf6rdK2JilxKA8S4OPzS&ust=1726930951689000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDh8KDl0YgDFQAAAAAdAAAAABAI), no-repeat cover;
+        background: url('cover1.jpg'), no-repeat cover;
     }
 
     .cartao {
