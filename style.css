@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url('img/.mosaico.webp');
+    background: url('img/.curitiba.jpg');
     font-family: Bai Jamjuree;
 }
 
@@ -99,7 +99,7 @@ footer p {
 @media (max-width: 560px) {
     
     body {
-        background: url('img/.mosaico.webp');
+        background: url('img/.curitiba.jpg');
     }
 
     .cartao {
